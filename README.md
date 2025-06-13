@@ -45,7 +45,7 @@ Using chest X-ray datasets, the project explores:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pneumonia-detection-model.git
+git clone https://github.com/Vai-luc/pneumonia-detection-model.git
 cd pneumonia-detection-model
 ````
 
