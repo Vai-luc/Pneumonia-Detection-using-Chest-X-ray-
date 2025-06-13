@@ -39,7 +39,6 @@ Using chest X-ray datasets, the project explores:
 
 - Chest X-ray images (publicly available datasets like NIH or Kaggle)
 - Classes: Normal and Pneumonia
-> *Note: Dataset is not included. Please download from official sources.*
 
 ## 🚀 How to Run
 
